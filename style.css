@@ -1,0 +1,51 @@
+.footer {
+  color: aliceblue;
+}
+
+.card-img-top {
+  width: 100px;
+  height: 100px;
+}
+
+.checkprice1 {
+  width: 250px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+}
+
+.text1 {
+  padding-top: 10px;
+}
+
+.lorem1 {
+  margin-top: 120px;
+}
+.card{
+   border: none !important;
+  
+}
+.cardbody1 {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border-radius: 19px;
+  opacity: 1;
+  width: 300px;
+  height: 150px;
+  
+
+}
+.cardbody2 {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border-radius: 19px;
+  opacity: 1;
+}
+
+.cardbody3 {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border-radius: 19px;
+  opacity: 1;
+}
